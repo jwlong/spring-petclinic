@@ -7,6 +7,7 @@
 ```
 test1 
 test2
+test4
 	git clone https://github.com/spring-projects/spring-petclinic.git
 	cd spring-petclinic
 	./mvnw tomcat7:run
