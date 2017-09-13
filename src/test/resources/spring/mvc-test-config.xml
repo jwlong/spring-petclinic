@@ -8,5 +8,4 @@
     <bean class="org.mockito.Mockito" factory-method="mock">
         <constructor-arg value="org.springframework.samples.petclinic.service.ClinicService"/>
     </bean>
-
 </beans>
